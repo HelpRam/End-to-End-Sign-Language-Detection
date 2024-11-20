@@ -1,6 +1,3 @@
-# Here's a detailed README for your **End-to-End Sign Language Detection** project, including your use of YOLO for fine-tuning and your custom dataset:
-
----
 
 # End-to-End Sign Language Detection Project
 
